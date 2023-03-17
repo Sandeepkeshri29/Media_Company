@@ -1,2 +1,2 @@
 # Media_Company
-A digital media company (similar to Hotstar, Netflix, etc.) had launched a show. Initially, 
+A digital media company (similar to Hotstar, Netflix, etc.) had launched a show. Initially, the show  got a good response, but then witnessed a decline in viewership. The company wants to figure out what went wrong. This is a multiple regression model case and we have to build a perfect model to know what are the particular factors/columns which are impacting the viewership and to predict its views in the future.
